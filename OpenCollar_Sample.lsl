@@ -15,7 +15,7 @@
 // General explanation of naming conventions.
 //
 // Variables can be keys, strings, integers, or lists. By convention, a local variable (meaning
-// a variable only available in a specific block of code would be named something like kVar,
+// a variable only available in a specific block of code) would be named something like kVar,
 // sVar, iVar, or lVar, the leading lower case letter identifying what kind of variable it is.
 // Global variables, meaning variables available throughout the entire script, have "g_" prepended,
 // so the global equivalents would be g_kVar, g_sVar, g_iVar, or g_lVar. The "Var" part should be
